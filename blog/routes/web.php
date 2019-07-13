@@ -31,7 +31,7 @@ Route::delete('/accomodations/{id}', 'AccomodationsController@destroy');
 Route::get('/accomodations/delete/{id}', 'AccomodationsController@destroy');
 
 // ------------------------------------------------------------------------------
-
+rtrt5r5t
 
 
 // DISPLAY VIEWS ---------------------------------------------------------------
